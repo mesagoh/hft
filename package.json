@@ -1,0 +1,24 @@
+{
+  "name": "holographic_floating_triangles",
+  "version": "1.0.0",
+  "description": "p5js animation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesagoh/holographic_floating_triangles.git"
+  },
+  "author": "Melissa Goh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesagoh/holographic_floating_triangles/issues"
+  },
+  "homepage": "https://github.com/mesagoh/holographic_floating_triangles#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
